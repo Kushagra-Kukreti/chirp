@@ -128,8 +128,6 @@ export class Service{
             conf.appwriteBucketId,
             fileId
         )
-        console.log("preview got is:::",preview);
-        
         return preview
     }
 }
