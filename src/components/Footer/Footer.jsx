@@ -8,9 +8,6 @@ function Footer() {
         <div className="grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-4">
           {/* Logo + Copyright */}
           <div className="flex flex-col justify-between">
-            <div className="flex items-center">
-              <Logo width="90px" />
-            </div>
           </div>
 
           {/* Company */}
